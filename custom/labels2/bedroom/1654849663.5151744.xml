@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bedroom</folder>
+	<filename>1654849663.5151744.jpg</filename>
+	<path>F:\ucarpic\images\bedroom\1654849663.5151744.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>109</ymin>
+			<xmax>449</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+</annotation>

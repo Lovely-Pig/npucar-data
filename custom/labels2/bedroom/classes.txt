@@ -1,0 +1,4 @@
+bed
+pet
+table
+person
